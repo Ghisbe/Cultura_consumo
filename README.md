@@ -4,7 +4,8 @@
 
 # Monitoreo cultural de Córdoba capital
 
-![image-2018-11-02](https://github.com/user-attachments/assets/f661413c-7faa-4f8b-9243-24231d2c6faa)
+<img width="533" height="300" alt="image" src="https://github.com/user-attachments/assets/e42669da-9d92-45a9-8fcb-3b617ebc5e06" />
+
 
 # Informe: Visualización del Monitoreo de Consumo Cultural en la Ciudad de Córdoba, Febrero 2024
 
@@ -26,7 +27,4 @@ Los objetivos específicos son:
     - **Power BI.**
     - **Conexión a página web**: Los datos fueron extraídos y procesados mediante una conexión a una fuente web para su integración en Power BI.
 
-Fuente: 
-https://cultura.cordoba.gob.ar/observatorio-cultural/
-https://documentos.cordoba.gob.ar/MUNCBA/AreasGob/CULTURA/OBSERVATORIO/monitoreo-consumo-cultural.pdf
 
