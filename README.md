@@ -1,6 +1,5 @@
 # Cultura_consumo
 
-## cultura_consumo
 
 # Monitoreo cultural de Córdoba capital
 
